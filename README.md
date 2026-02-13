@@ -14,6 +14,9 @@
   - **Box plot** → petal length by species
 
 ## Results
-- Scatter plot shows species have different clusters. ![Scatter Plot](scatter_plot.png)
-- Histogram shows distribution of petal lengths. ![Histogram Plot](histogram_plot.png)
-- Box plot shows differences between species and highlights outliers.  ![Box Plot](box_plot.png)
+- Scatter plot shows species have different clusters.
+- ![Scatter Plot](scatter_plot.png)
+- Histogram shows distribution of petal lengths.
+- ![Histogram Plot](histogram_plot.png)
+- Box plot shows differences between species and highlights outliers.
+- ![Box Plot](box_plot.png)
